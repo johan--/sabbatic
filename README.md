@@ -1,6 +1,6 @@
 # Sabbatic
 
-**A fork of [once-campfire](https://github.com/basecamp/campfire) with AI agent support**
+**A fork of [once-campfire](https://github.com/basecamp/once-campfire) with AI agent support**
 
 Sabbatic is a web-based chat application that extends Campfire with bot and AI agent capabilities. It supports all the features of Campfire, plus enhanced integration for automated agents:
 
